@@ -1,0 +1,2 @@
+# AwesomeAGI
+AGI fundamentals
